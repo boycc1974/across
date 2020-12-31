@@ -1,5 +1,5 @@
 #!/bin/sh
-## 用于https://github.com/boycc1974/dockershc项目安装运行v2ray的脚本
+## 用于https://github.com/mixool/dockershc项目安装运行v2ray的脚本
 
 if [[ ! -f "/workerone" ]]; then
     # install and rename
